@@ -1,4 +1,4 @@
-# Student Readiness Clustering (Repo)
+# Student Readiness Clustering for the Special Topics in Digital Media Course
 
 Repository: student readiness clustering pipelines and notebooks. Implements an end-to-end workflow for preprocessing survey data, performing agglomerative clustering, evaluating candidate clusterings with multiple metrics, ranking cluster choices by consensus, assigning held-out test rows to clusters, and exporting visual summaries.
 
